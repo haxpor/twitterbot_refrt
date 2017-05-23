@@ -7,6 +7,6 @@ var t = twit({
 	access_token_secret: process.env.TWITTERBOT_REFRT_ACCESS_TOKEN_SECRET
 });
 
-t.post('statuses/update', { status: 'tweet via twit, test 5' }, function(err, data, response) {
+t.post('statuses/update', { status: 'tweet via twit, test 6' }, function(err, data, response) {
 	console.log(data);
 });
