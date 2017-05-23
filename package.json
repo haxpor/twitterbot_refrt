@@ -1,0 +1,29 @@
+{
+  "name": "twitterbot_refrt",
+  "version": "0.0.1",
+  "description": "This bot will retweet what @haxpor tweet (mostly retweet) with #refrt. It's meant for reference purpose for @haxpor to look at them later.",
+  "main": "index.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haxpor/twitterbot_refrt.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "retweet",
+    "rt"
+  ],
+  "author": "Wasin Thonkaew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haxpor/twitterbot_refrt/issues"
+  },
+  "homepage": "https://github.com/haxpor/twitterbot_refrt#readme"
+}
