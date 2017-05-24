@@ -1,6 +1,6 @@
 # twitterbot_refrt
 
-This bot will retweet what @haxpor tweet (mostly retweet) with #refrt. It's meant for reference purpose for @haxpor to look at them later.
+This bot will apply condition to selected tweet from [@haxpor](https://twitter.com/haxpor) in real-time then retweet it.
 
 # Setup
 
