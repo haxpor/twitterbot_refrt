@@ -18,6 +18,10 @@ export TWITTERBOT_REFRT_ACCESS_TOKEN_SECRET='xxxx'
 in which those `xxxx` can be copied from `https://apps.twitter.com/app` by creating a new app, and look at `Keys and Access Token` section.  
 You have to generate access token manually. Just follow along on its website.
 
+# See in Real Action
+
+Take a look at [@haxpor_refrt](https://twitter.com/haxpor_refrtbot) bot, it will retweet tweet from [@haxpor](https://twitter.com/haxpor) if that tweet passed filtering rules to retweet.
+
 # License
 
 [MIT](https://github.com/haxpor/twitterbot_refrt/blob/master/LICENSE), Wasin Thonkaew
